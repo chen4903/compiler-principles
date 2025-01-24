@@ -1,1 +1,1 @@
-编译原理学习
+编译原理学习，资料源：[国防科技大学-编译原理课程](https://www.bilibili.com/video/BV11t411V74n?spm_id_from=333.788.videopod.episodes&vd_source=0cc0401ee122346d6680e90658b0ed1a)
